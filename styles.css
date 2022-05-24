@@ -1,0 +1,18 @@
+body {
+  background-color: #afeeee;
+  color: #990000;
+}
+
+.nav {
+  background-color: antiquewhite;
+}
+
+.datatables {
+
+  background-color: coral;
+}
+
+caption {
+  font-size: 16pt;
+  color: black;
+}
